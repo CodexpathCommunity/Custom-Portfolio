@@ -34,17 +34,15 @@
     ]
   },
   "resume": {
-    "skillmessage": "React.js Mern stack developers with a ton of experience in programming. I bring your toughts to reality just contact me",
+    "skillmessage": "React.js Mern stack developers with a ton of experience in programming.",
     "education": [
-      {
-        
-      }
+      {}
     ],
     "work": [
       {
         "company": "DivBuilder",
-        "title": "Team Member && React Specialist",
-        "years": "July 2019 - Present",
+        "title": "Team Tech && React Specialist",
+        
         "description": "We make the best landing pages and web applications to boost your business. we also provide solutions to digital marketing and promotions."
       }
     ],
