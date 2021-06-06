@@ -4,7 +4,7 @@
     "occupation": "A freelance company",
     "description": "Excellent in media and web solutions. We bring together a creative team with the sole aim of establishing effective web and social media solutions for You.",
     "image": "sky.jpg",
-    "bio": "Hi there I'm Emmanuel Jacob, co-founder and Lead Developer DivBuilder. It's gives our team of critical thinkers a thing of joy to be the solution to your needs.",
+    "bio": "Hi there I'm Emmanuel Jacob, Twitter @Skyboyblu, co-founder and Lead Developer DivBuilder. It's gives our team of critical thinkers great joy to bring to you solution to modern day technology in business and trade. Your websites make more sales",
     "contactmessage": "Get in touch with me to i'll get your work done ASAP,or get trained or employment.",
     "email": "codexpath3@gmail.com",
     "phone": "+234 701 568 8584",
@@ -17,14 +17,14 @@
 
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/emmanuel.nweke.9883/",
-        "className": "fa fa-facebook"
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/emmanuel-jacob-661a451bb",
+        "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/skyboybl/",
-        "className": "fa fa-instagram"
+        "name": "twitter",
+        "url": "https://www.twitter.com/skyboyblu/",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
@@ -33,45 +33,14 @@
       }
     ]
   },
-  "resume": {
-    "skillmessage": "React.js Mern stack developers with a ton of experience in programming.",
-    "education": [
-      {}
-    ],
-    "work": [
-      {
-        "company": "DivBuilder",
-        "title": "Team Tech && React Specialist",
-        
-        "description": "We make the best landing pages and web applications to boost your business. we also provide solutions to digital marketing and promotions."
-      }
-    ],
-    "skills": [
-      {
-        "name": "MERN",
-        "level": "89%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Firebase",
-        "level": "80%"
-      },
-      {
-        "name": "Digital Marketing",
-        "level": "80%"
-      }
-    ]
-  },
+
   "portfolio": {
     "projects": [
       {
-        "title": "Libracin Demo",
-        "category": "libracin drug store (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "libracin.png",
-        "url": "http://Libracin-e4530.web.app"
+        "title": "dolla",
+        "category": "responsive smooth scroll website made in react",
+        "image": "dolla.png",
+        "url": "https://dolla-78aa9.web.app/"
       },
       {
         "title": "Covid 19 tracker",
@@ -83,7 +52,19 @@
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": ""
+        "url": "https://facebook-clone-206d7.web.app/"
+      },
+      {
+        "title": "Apple responsive website with ReactJs",
+        "category": "responsive apple website built in ReactJS",
+        "image": "apple.png",
+        "url": "https://apple-clone-c616c.web.app/"
+      },
+      {
+        "title": "Instagram desktop Clone with React",
+        "category": "instagram desktop Clone built with ReactJS",
+        "image": "ig.png",
+        "url": "https://instagram-clone-7996b.web.app/"
       }
     ]
   },
@@ -91,7 +72,7 @@
     "testimonials": [
       {
         "text": "I love it when i see talented youths being creative. this team will always manage my web applications",
-        "user": "Bethel Nweke"
+        "user": "Sean Moore"
       },
       {
         "text": "You know what i love about you guys, you get to deliver in time and make technical value look so easy to come by",
